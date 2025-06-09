@@ -12,4 +12,6 @@ button{
     border-radius: 5px;
     font: 10;
     margin: 3px;
+    width: 100px;
+    height: 30px;
 }
