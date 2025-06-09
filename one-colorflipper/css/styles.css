@@ -1,0 +1,15 @@
+#green {
+  background-color: green;
+}
+#red {
+  background-color: red;
+}
+#blue {
+  background-color: blue;
+}
+
+button{
+    border-radius: 5px;
+    font: 10;
+    margin: 3px;
+}
